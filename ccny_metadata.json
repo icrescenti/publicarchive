@@ -1,0 +1,6 @@
+{
+  "name": "人民币",
+  "symbol": "CCNY",
+  "description": "Chinese Renminbi crypto (not a stablecoin)",
+  "image": "https://raw.githubusercontent.com/icrescenti/publicarchive/refs/heads/master/ccnylogo.jpg"
+}
