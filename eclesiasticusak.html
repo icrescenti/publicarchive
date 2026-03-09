@@ -11,6 +11,6 @@
 		const queryString = window.location.search;
 		const urlParams = new URLSearchParams(queryString);
 		const redirectPath = urlParams.get('redirect')
-		window.location = `${redirectPath}`;
+		window.location = `${process.env.ECLS_AK_FILES}${redirectPath}`;
 	</script>
 </html>
